@@ -1,3 +1,3 @@
-# EL
+# Electronix Lab
 
 Here are the instructions. 
