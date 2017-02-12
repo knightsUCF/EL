@@ -1,3 +1,10 @@
 # Electronix Lab 
 
-Here are the instructions. 
+SPACE AGE ELECTRONIX 
+
+Electronix Project Lab
+
+Electronic Projects Kit 
+
+
+
