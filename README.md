@@ -1,3 +1,3 @@
-# Electronix Lab TM
+# Electronix Lab 
 
 Here are the instructions. 
