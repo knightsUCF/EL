@@ -1,0 +1,2 @@
+SETTING1 = 1
+SETTING2 = 2
